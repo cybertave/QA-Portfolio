@@ -1,0 +1,10 @@
+[   -7142ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://parabank.parasoft.com/parabank/index.htm:0
+[   18287ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://parabank.parasoft.com/parabank/about.htm;jsessionid=3B7D6071107B4AC57F86583F40E8FB45:0
+[   26881ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://parabank.parasoft.com/parabank/index.htm:0
+[   32655ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://parabank.parasoft.com/parabank/services.htm:0
+[   37775ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://parabank.parasoft.com/parabank/index.htm:0
+[   42319ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://parabank.parasoft.com/parabank/contact.htm:0
+[   51219ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://parabank.parasoft.com/parabank/index.htm:0
+[   60469ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) %o @ https://parabank.parasoft.com/parabank/register.htm:0
+[   60472ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) %o @ https://parabank.parasoft.com/parabank/register.htm:0
+[   60472ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://parabank.parasoft.com/parabank/register.htm:0
